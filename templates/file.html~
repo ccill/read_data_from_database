@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>file</title>
+</head>
+<body>
+    <h1>{{ item.content }}</h1>
+    <p>{{ item.created_time }}</p>
+    <p>{{ item.category }}</p>
+</body>
+</html>
